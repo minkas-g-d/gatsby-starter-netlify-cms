@@ -5,7 +5,7 @@ title: This is my Test post
 date: 2018-01-30T10:13:09.589Z
 description: This is my first gatsby post trough the netlify cms
 ---
-# "The faces of Vitosha" movie
+# "The faces of Vitosha :)" movie
 
 ![this is the event](/img/faces-of-vitosha.jpg)
 
